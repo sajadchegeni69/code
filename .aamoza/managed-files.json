@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "files": [
+    ".aamoza/project.json",
+    ".github/workflows/build-android.yml",
+    ".github/workflows/release.yml",
+    "README.md",
+    "app/build.gradle.kts",
+    "app/src/main/AndroidManifest.xml",
+    "app/src/main/java/com/example/aamoza/MainActivity.kt",
+    "app/src/main/res/values/strings.xml",
+    "app/src/main/res/values/themes.xml",
+    "build.gradle.kts",
+    "gradle.properties",
+    "gradle/libs.versions.toml",
+    "gradle/wrapper/gradle-wrapper.properties",
+    "gradlew",
+    "gradlew.bat",
+    "settings.gradle.kts"
+  ]
+}

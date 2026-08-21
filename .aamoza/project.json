@@ -1,0 +1,12 @@
+{
+  "generator": "Aamoza",
+  "schemaVersion": 1,
+  "projectType": "android",
+  "rootRepository": true,
+  "language": "kotlin",
+  "ui": "jetpack-compose",
+  "architecture": "mvvm-ready",
+  "minSdk": 26,
+  "targetSdk": 35,
+  "java": 17
+}
